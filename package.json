@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"hhtps://Saairajj.github.io/githubSearch",
+  "homepage":"https://Saairajj.github.io/githubSearch",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
